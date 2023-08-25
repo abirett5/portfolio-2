@@ -4,8 +4,8 @@
 
 
 /**
- * copyright 2023 A.H. Abir
- */
+ -- copyright 2023 A.H. Abir
+**/
 
 'use strict';
 
